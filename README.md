@@ -26,10 +26,6 @@
    ```
    Code → Download ZIP
    ```
-   или через Git:
-   ```bash
-   git clone https://github.com/ВАШ_НИК/ym-track-collector.git
-   ```
 
 2. Открой Chrome и перейди по адресу:
    ```
